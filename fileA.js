@@ -1,0 +1,2 @@
+require('./fileB');
+require('./fileB');
