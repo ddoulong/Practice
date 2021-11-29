@@ -1,1 +1,7 @@
-//nothing to see here;
+console.log('start');
+const express = require('express');
+const app = express();
+
+app.listen(3000, () => {
+    console.log('server is up')
+})
